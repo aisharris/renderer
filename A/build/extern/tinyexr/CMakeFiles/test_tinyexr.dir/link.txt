@@ -1,0 +1,1 @@
+/usr/bin/c++  -pg -O3 -DNDEBUG  -pg CMakeFiles/test_tinyexr.dir/test_tinyexr.cc.o -o test_tinyexr  libminiz.a 
